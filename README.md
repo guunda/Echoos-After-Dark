@@ -7,6 +7,7 @@ An interactive haunted storytelling and fictional computer terminal investigatio
 Created for the **Hacktoberfest 2026 "Ghost in the Machine" Open-Source AI Challenge**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-guunda%2FEchoos--After--Dark-181717.svg?logo=github)](https://github.com/guunda/Echoos-After-Dark)
 [![AI Model](https://img.shields.io/badge/AI_Model-Gemma_3:1b-purple.svg)](https://ollama.com/library/gemma3)
 [![Local Inference](https://img.shields.io/badge/Inference-100%25_Local_(Ollama)-blue.svg)](https://ollama.ai)
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green.svg)](https://nodejs.org)
@@ -180,9 +181,10 @@ Designed specifically to run smoothly on everyday consumer laptops:
 
 ### Step 2: Install App Dependencies & Launch
 
-1. Clone or open the repository folder:
+1. Clone the repository and navigate into the folder:
    ```bash
-   cd "c:\Users\SREE\OneDrive\Documents\Echos After Dark"
+   git clone https://github.com/guunda/Echoos-After-Dark.git
+   cd Echoos-After-Dark
    ```
 
 2. Install dependencies:
@@ -263,7 +265,7 @@ Results: 7 passed, 0 failed.
 ## 🤝 Contributing to Hacktoberfest 2026
 
 We welcome contributions from open-source developers, writers, and AI enthusiasts!
-1. Fork the repository.
+1. Fork the repository at [https://github.com/guunda/Echoos-After-Dark](https://github.com/guunda/Echoos-After-Dark).
 2. Create your feature branch (`git checkout -b feature/spectral-audio`).
 3. Commit your changes (`git commit -m 'Add new CRT phosphor color modes'`).
 4. Push to the branch (`git push origin feature/spectral-audio`).

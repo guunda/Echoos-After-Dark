@@ -1,0 +1,28 @@
+{
+  "name": "echoes-after-dark",
+  "version": "1.0.0",
+  "description": "Interactive haunted storytelling experience powered by a local open-weight AI model (gemma3:1b via Ollama) for Hacktoberfest 2026.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node tests/api.test.js"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "hacktoberfest-2026",
+    "ghost-in-the-machine",
+    "ollama",
+    "gemma3",
+    "local-ai",
+    "privacy-first",
+    "storytelling",
+    "horror",
+    "dia-de-los-muertos"
+  ],
+  "author": "Echoes After Dark Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
